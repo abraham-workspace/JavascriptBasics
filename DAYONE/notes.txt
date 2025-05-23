@@ -1,0 +1,10 @@
+JAVASCRICT CONCEPTS:
+1:
+string:
+THIS IS A CAR
+NODE.JS
+1install node.JS
+2.npm i
+
+
+-typeOf()
